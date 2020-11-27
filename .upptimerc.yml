@@ -4,7 +4,7 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: 博客
+  - name: 博客123
     url: https://wr0926.ml
   - name: Wikipedia
     url: https://en.wikipedia.org
