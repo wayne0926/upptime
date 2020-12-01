@@ -5,7 +5,7 @@
     "slug": "123",
     "status": "up",
     "uptime": "100.00%",
-    "time": 454
+    "time": 426
   },
   {
     "name": "Wikipedia",
@@ -13,7 +13,7 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 97
+    "time": 95
   },
   {
     "name": "Hacker News",
@@ -21,7 +21,7 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "time": 324
+    "time": 334
   },
   {
     "name": "Broken Site",
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "97.87%",
+    "uptime": "97.00%",
     "time": 0
   }
 ]
