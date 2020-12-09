@@ -4,9 +4,9 @@
     "url": "https://wr0926.ml",
     "icon": "https://favicons.githubusercontent.com/wr0926.ml",
     "slug": "123",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 397,
     "timeMonth": 422,
     "timeYear": 422,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-09": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -77,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "90.56%",
+    "uptime": "90.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.61%",
-    "uptimeYear": "90.56%",
+    "uptimeMonth": "61.98%",
+    "uptimeYear": "90.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-09": 22,
+      "2020-12-09": 300,
       "2020-12-08": 1440,
       "2020-12-07": 1440,
       "2020-12-06": 1440,
