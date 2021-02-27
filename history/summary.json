@@ -4,7 +4,7 @@
     "url": "https://wr0926.ml",
     "icon": "https://favicons.githubusercontent.com/wr0926.ml",
     "slug": "123",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 325,
     "timeYear": 387,
     "dailyMinutesDown": {
+      "2021-02-27": 0,
       "2020-12-18": 15,
       "2020-12-09": 23
     }
@@ -80,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "54.43%",
+    "uptime": "54.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.43%",
+    "uptimeYear": "54.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-27": 21,
+      "2021-02-27": 683,
       "2021-02-26": 1440,
       "2021-02-25": 1440,
       "2021-02-24": 1440,
