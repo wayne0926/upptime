@@ -21,3 +21,12 @@ jobs:
         pip3 install -r requirements.txt
         sudo sh install_dependencies.sh
         python main.py -o -u ${{ secrets.UN }} -p ${{ secrets.PW }}
+        
+    - name: Telegram Notification
+      if: cancelled() == false
+      uses: xinthink/action-telegram@v1.1
+      with:
+        botToken: ${{ secrets.TG_BOT_TOKEN }} #use bot @BotFather
+        chatId: ${{ secrets.TG_CHAT_ID }} #use bot @userinfobot
+        jobStatus: ${{ job.status }}
+        skipSuccess: false
