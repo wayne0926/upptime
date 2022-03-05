@@ -31,9 +31,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
@@ -43,6 +43,7 @@
     "timeMonth": 194,
     "timeYear": 219,
     "dailyMinutesDown": {
+      "2022-03-05": 0,
       "2022-03-01": 21
     }
   },
@@ -92,7 +93,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "19.10%",
+    "uptime": "19.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -103,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-05": 48,
+      "2022-03-05": 399,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
