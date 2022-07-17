@@ -4,8 +4,8 @@
     "url": "https://wr0926.ml",
     "icon": "https://favicons.githubusercontent.com/wr0926.ml",
     "slug": "123",
-    "status": "up",
-    "uptime": "99.39%",
+    "status": "down",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 654,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2022-07-17": 0,
       "2022-07-01": 15,
       "2022-03-14": 87,
       "2022-03-13": 379,
@@ -110,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-17": 69,
+      "2022-07-17": 322,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
