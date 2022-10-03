@@ -2,7 +2,7 @@
   {
     "name": "博客123",
     "url": "https://wr0926.ml",
-    "icon": "https://favicons.githubusercontent.com/wr0926.ml",
+    "icon": "https://icons.duckduckgo.com/ip3/wr0926.ml.ico",
     "slug": "123",
     "status": "up",
     "uptime": "98.97%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.12%",
     "time": 599,
-    "timeDay": 542,
-    "timeWeek": 503,
-    "timeMonth": 518,
+    "timeDay": 275,
+    "timeWeek": 463,
+    "timeMonth": 509,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2022-09-22": 29,
@@ -37,7 +37,7 @@
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
+    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -46,9 +46,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 228,
-    "timeDay": 237,
-    "timeWeek": 218,
-    "timeMonth": 187,
+    "timeDay": 105,
+    "timeWeek": 197,
+    "timeMonth": 180,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2022-06-12": 18,
@@ -59,7 +59,7 @@
   {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
+    "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.92%",
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 318,
-    "timeDay": 464,
-    "timeWeek": 414,
-    "timeMonth": 327,
-    "timeYear": 309,
+    "time": 317,
+    "timeDay": 95,
+    "timeWeek": 364,
+    "timeMonth": 319,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2022-07-09": 119,
       "2022-07-08": 535,
@@ -81,7 +81,7 @@
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.com.ico",
     "slug": "broken-site",
     "status": "down",
     "uptime": "100.00%",
@@ -99,10 +99,10 @@
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "13.95%",
+    "uptime": "13.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -113,7 +113,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 84,
+      "2022-10-03": 73,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -476,8 +477,7 @@
       "2021-10-07": 1440,
       "2021-10-06": 1440,
       "2021-10-05": 1440,
-      "2021-10-04": 1440,
-      "2021-10-03": 1440
+      "2021-10-04": 1440
     }
   }
 ]
